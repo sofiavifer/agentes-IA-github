@@ -1,5 +1,6 @@
 # Agentes-IA-github
 Projeto Imersão IA Alura + Google Gemini - Plano de Investimento com Agentes
+
 Este projeto foi desenvolvido como parte da Imersão IA da Alura, uma experiência prática e transformadora. Gratidão à equipe da Alura por tornar acessível o aprendizado de IA generativa com ferramentas de ponta como o Gemini!
 
 💸 Planejamento Rumo ao Milhão com Agentes IA (Google Gemini)
