@@ -3,6 +3,8 @@ Projeto Imersão IA Alura + Google Gemini - Plano de Investimento com Agentes
 
 Este projeto foi desenvolvido como parte da Imersão IA da Alura, uma experiência prática e transformadora. Gratidão à equipe da Alura por tornar acessível o aprendizado de IA generativa com ferramentas de ponta como o Gemini!
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 💸 Planejamento Rumo ao Milhão com Agentes IA (Google Gemini)
 
 Este projeto utiliza agentes inteligentes baseados no modelo **Gemini 2.0 Flash**, da Google, para construir um plano financeiro personalizado com o objetivo de alcançar **R$ 1.000.000 investidos**.
