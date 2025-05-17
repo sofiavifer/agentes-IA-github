@@ -12,9 +12,9 @@ Este projeto utiliza agentes inteligentes baseados no modelo **Gemini 2.0 Flash*
 
 Após um input do usuário, os agentes executam um plano completo baseado em uma situação inicial fictícia (mas facilmente ajustável):
 
-1. Diagnóstico Financeiro Atual
-2. Otimização da Carteira de Investimentos
-3. Planejamento Estratégico para atingir o milhão
+1. ** Diagnóstico Financeiro Atual  **
+2. ** Otimização da Carteira de Investimentos **
+3. ** Planejamento Estratégico para atingir o milhão **
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
